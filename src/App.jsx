@@ -25,6 +25,7 @@ function App() {
       pilt: pilt,
     },
     berliin,
+    london,
   ];
 
   return (
